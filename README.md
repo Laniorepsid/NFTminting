@@ -27,7 +27,7 @@ variables in `.env` file.
 **Step 1:**
 Download or clone this repo by using the link below:
 ```bash
-git clone https://github.com/Laniorepsid/Hafedir.git
+git clone https://github.com/Laniorepsid/NFTminting.git
 ```
 **Step 2:**
 Execute the following command in the root directory of the downloaded repo in order to install
