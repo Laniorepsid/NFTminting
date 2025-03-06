@@ -1,9 +1,10 @@
 # NFT minting project
 ## ✨ Project architecture
 ![demo](.github/architecture.PNG)
-## Profile
+![demo](.github/new_explore.png)
+## 🍁 Profile / NFT list
 ![demo](.github/profile.jpg)
-## 🍁 Tech stack
+## ⚙️ Tech stack
 ![demo](.github/architecture.jpg)
 - Frontend: React, node.js, SCSS
 - Ethereum(Rinkeby Testnet), Ganache
